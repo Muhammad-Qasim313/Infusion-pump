@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    background-color:lightcyan;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.nav-bar{
+    float: right;
+    padding: 65px 150px;
+    
+}
+.nav-bar a{
+    float: left;
+    color: black;
+    text-align: center;
+    padding: 11px 22px;
+    text-decoration: none;
+    font-size: 25px;
+}
+.nav-bar a:hover{
+    text-decoration:underline;
+}
+.title{
+
+    color: black;
+    font-size: 30px;
+    text-align: center;
+    padding-top: 300px;
+
+}
+span{
+    font-size: 200px;
+}
